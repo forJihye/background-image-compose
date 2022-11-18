@@ -3,5 +3,5 @@ import * as path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/',
+  base: '/background-image-compose/',
 })
